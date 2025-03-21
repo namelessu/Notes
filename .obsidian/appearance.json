@@ -1,0 +1,13 @@
+{
+  "accentColor": "#6348a3",
+  "baseFontSize": 23,
+  "cssTheme": "Obsidianite",
+  "theme": "obsidian",
+  "textFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
+  "interfaceFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
+  "baseFontSizeAction": true
+}
