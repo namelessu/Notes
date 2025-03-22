@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/日本語能力試験の文法　N5,N4.md",
+                "file": "Useless College Notes/Professional ethics/Lecture 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "日本語能力試験の文法　N5,N4"
+              "title": "Lecture 4"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5004348754883
   },
   "right": {
     "id": "51fd0dd08536abe5",
@@ -202,14 +202,26 @@
   },
   "active": "dcf10c3e98a4e1b8",
   "lastOpenFiles": [
-    "ccna/Automation/SDN.md",
+    "Useless College Notes/Professional ethics/Lecture 3.md",
+    "Useless College Notes/Professional ethics/Lecture 4.md",
+    "Useless College Notes/Professional ethics/Lecture 2.md",
+    "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
+    "Useless College Notes/Human Rights/Lecture 2.md",
+    "Useless College Notes/Professional ethics/Lecture 1.md",
+    "Useless College Notes/Professional ethics",
+    "Useless College Notes/Untitled.md",
+    "Useless College Notes/Human Rights/Lecture 1.md",
+    "Useless College Notes/Human Rights/Human Rights Objectives.md",
     "日本語/日本語能力試験の文法　N5,N4.md",
+    "Useless College Notes/Recent Egypt History/1-Muhammad Ali.md",
+    "Useless College Notes/Recent Egypt History/3-Ismail Pasha.md",
+    "Useless College Notes/Recent Egypt History/2-Ibrahim Pasha.md",
+    "Useless College Notes/Human Rights/Untitled.canvas",
+    "Useless College Notes/Human Rights",
+    "ccna/Automation/SDN.md",
     "Useless College Notes/Music Appreciation/Lecture 2.md",
     "Excalidraw/Drawing 2025-03-20 18.39.53.excalidraw.md",
     "Excalidraw",
-    "Useless College Notes/Recent Egypt History/2-Ibrahim Pasha.md",
-    "Useless College Notes/Recent Egypt History/3-Ismail Pasha.md",
-    "Useless College Notes/Recent Egypt History/1-Muhammad Ali.md",
     "ccna/Security/ACLs For Packet Filtering.md",
     "202503200403.md",
     "Useless College Notes/Recent Egypt History/Recent Egypt History.md",
@@ -221,33 +233,23 @@
     "ccna/Wireless/Wireless.md",
     "ccna/Hot Standby Router Protocol - Gateway/Network Gateway Redundancy.md",
     "Red Hat System Adminstration/Red Hat System Admin.md",
-    "Useless College Notes/Music Appreciation/Lecture 1.md",
     "日本語/Pasted image 20250223175529.png",
     "Red Hat System Adminstration",
-    "日本語/日本語能力過去試験/2010-2011.md",
     "日本語/日本語能力過去試験",
     "Useless College Notes/Music Appreciation",
-    "ccna/WAN/WAN.md",
     "Useless College Notes",
-    "みんなの日本語第３２日.md",
-    "ccna/Design/MDF and IDF - Core and Dist.md",
-    "ccna/README.md",
-    "ccna/Design/Spine-Leaf Network Design.md",
     "ccna/Design/Untitled(1).png",
     "ccna/WAN/vpn-crypto.png",
     "ccna/WAN/vpn.png",
-    "ccna/CCDP and LLDP/CCDP and LLDP.md",
     "ccna/Wireless",
     "ccna/WAN",
     "ccna/VLAN",
-    "ccna/Syslog",
     "ccna/Subnetting/Untitled.png",
     "ccna/Subnetting/Untitled 4.png",
     "ccna/Subnetting/Untitled 3.png",
     "ccna/Subnetting/Untitled 2.png",
     "ccna/Subnetting/Untitled 1.png",
     "ccna/Subnetting/Screenshot from 2022-02-03 09-44-25.png",
-    "ccna/Subnetting",
     "Untitled.canvas"
   ]
 }

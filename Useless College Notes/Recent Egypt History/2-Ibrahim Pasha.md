@@ -1,4 +1,4 @@
-# **<span style="color: Red">2. Ibrahim Pasha </span>
+# **<span style="color: Red">2. Ibrahim Pasha </span>**
 ## **1-Who was Ibrahim Pasha, and where was he born?**
 
  - Ibrahim pasha born 1789 in Nazareth Greece was the eldest son of Muhammad Ali the modern Egypt ruler.

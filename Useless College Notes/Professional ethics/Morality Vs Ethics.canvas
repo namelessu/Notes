@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"62a337911cf0a02d","x":0,"y":-90,"width":344,"height":50,"type":"text","text":"Any Aspect of human action"},
+		{"id":"8277a14eed67f2dd","x":-400,"y":-95,"width":250,"height":60,"type":"text","text":"Morality"},
+		{"id":"da29667b9fb056c7","x":0,"y":26,"width":365,"height":60,"type":"text","text":"Refer to professional Behaviour"},
+		{"id":"598bc1e77a65ba43","x":-400,"y":31,"width":250,"height":50,"type":"text","text":"Ethics"}
+	],
+	"edges":[
+		{"id":"93554667708779c1","fromNode":"8277a14eed67f2dd","fromSide":"right","toNode":"62a337911cf0a02d","toSide":"left"},
+		{"id":"6f6f101dbf15012b","fromNode":"598bc1e77a65ba43","fromSide":"right","toNode":"da29667b9fb056c7","toSide":"left"}
+	]
+}

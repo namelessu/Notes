@@ -1,4 +1,4 @@
-# <span style="color: Red">3. Ismail Pasha </span>
+# **<span style="color: Red">3. Ismail Pasha </span>**
 ## **1. When and where was Ismail Pasha born?**
 - He was born in 31st of December 1830 A.D.
 ## **2. What relationship did he have with Mohamed Ali and Ibrahim Pasha?**
