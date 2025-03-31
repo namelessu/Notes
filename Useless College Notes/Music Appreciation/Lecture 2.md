@@ -8,7 +8,7 @@
 4. Classical era
 	 - Between 1750-1820 Orchestras became better as it got bigger with more instruments, the harpsichord was replaced by the piano, One of the key features of this era is the extra use of harmonies.
 5. Romantic era
-	- Between 1820 - 1900 A.D here the use of emotion and drama was common and instrumentation increased alongside the size of orchestras, also the music ceremonies weren't just for royalties it became also for people.
+	- Between 1820 - 1900 A.D here the use of emotion and drama was common and instrumentation increased alongside the size of orchestras, also the music ceremonies weren't just for royalties it became also for people, Music schools came into action.
 6. 20/21st century
 	- Most of centuries before had guidelines to create music but here the free design of music became popular and music became available for all people in videos, streamlines, etc.
 ## **2- What influences the music in the medieval era?**
@@ -17,17 +17,17 @@
 ## **3- what’s the dominant type of the music in the medieval era?**
 - The religious music was the most dominant type in  medieval era.
 ## **4- Give examples of musical instruments that are used in the medieval era?**
-- Recorder flutes and some pluck string instruments
+- Recorder flutes and some pluck string instruments.
 ## **5- How is polyphonic music different from monophonic music?**
-- Monophonic Music: Single unaccompanied melody of line which was stalked by monks
-- Polyphonic Music: Two or more voices were added in the music
+- Monophonic Music: Single unaccompanied melody of line which was stalked by monks.
+- Polyphonic Music: Two or more voices were added in the music.
 
 ## **6-How did the Renaissance era influence music?**
 - In this era more harmony was added to the music chords which made the music more flexible and able to adapt the composer style. 
 - Many instruments were added in this era such as trumpet, harpsichord, guitar and percussion instruments.
 
 ## **7- How is the music in the Renaissance era similar to the one in the Medieval?**
-- It also had mostly religious music which was also dominant in this era.
+- It also had religious music which became prominent in this era.
 ## **8- Give examples of musical instruments in the Renaissance era?**
 - Guitar, harpsichord, trumpet and percussion instruments
 ## **9- What defines the music in the Baroque era?**

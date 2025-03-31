@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useless College Notes/Professional ethics/Lecture 4.md",
+                "file": "Useless College Notes/Recent Egypt History/1-Muhammad Ali.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 4"
+              "title": "1-Muhammad Ali"
+            }
+          },
+          {
+            "id": "66b47cf246b145f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5004348754883
+    "width": 200
   },
   "right": {
     "id": "51fd0dd08536abe5",
@@ -202,37 +212,37 @@
   },
   "active": "dcf10c3e98a4e1b8",
   "lastOpenFiles": [
-    "Useless College Notes/Professional ethics/Lecture 3.md",
-    "Useless College Notes/Professional ethics/Lecture 4.md",
-    "Useless College Notes/Professional ethics/Lecture 2.md",
-    "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
-    "Useless College Notes/Human Rights/Lecture 2.md",
-    "Useless College Notes/Professional ethics/Lecture 1.md",
-    "Useless College Notes/Professional ethics",
-    "Useless College Notes/Untitled.md",
+    "Useless College Notes/Recent Egypt History/2-Ibrahim Pasha.md",
     "Useless College Notes/Human Rights/Lecture 1.md",
-    "Useless College Notes/Human Rights/Human Rights Objectives.md",
-    "日本語/日本語能力試験の文法　N5,N4.md",
+    "Useless College Notes/Human Rights/Lecture 2.md",
     "Useless College Notes/Recent Egypt History/1-Muhammad Ali.md",
     "Useless College Notes/Recent Egypt History/3-Ismail Pasha.md",
-    "Useless College Notes/Recent Egypt History/2-Ibrahim Pasha.md",
+    "Useless College Notes/Recent Egypt History/Farouk Pasha.md",
+    "Useless College Notes/Music Appreciation/Lecture 4.md",
+    "Useless College Notes/Music Appreciation/Lecture 3.md",
+    "Useless College Notes/Music Appreciation/Lecture 2.md",
+    "Useless College Notes/Music Appreciation/Lecture 1.md",
+    "日本語/日本語能力試験の文法　N5,N4.md",
+    "Useless College Notes/Professional ethics/Lecture 1.md",
+    "Useless College Notes/Professional ethics/Lecture 2.md",
+    "Useless College Notes/Professional ethics/Lecture 4.md",
+    "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
+    "Excalidraw/Drawing 2025-03-25 01.51.16.excalidraw.md",
+    "Excalidraw",
+    "Useless College Notes/Professional ethics/Lecture 3.md",
+    "Useless College Notes/Professional ethics",
+    "Useless College Notes/Untitled.md",
+    "Useless College Notes/Human Rights/Human Rights Objectives.md",
     "Useless College Notes/Human Rights/Untitled.canvas",
     "Useless College Notes/Human Rights",
     "ccna/Automation/SDN.md",
-    "Useless College Notes/Music Appreciation/Lecture 2.md",
     "Excalidraw/Drawing 2025-03-20 18.39.53.excalidraw.md",
-    "Excalidraw",
     "ccna/Security/ACLs For Packet Filtering.md",
     "202503200403.md",
     "Useless College Notes/Recent Egypt History/Recent Egypt History.md",
     "ccna/Automation/Automation.md",
     "ccna/NTP/NTP.md",
     "ccna/NAT/NAT.md",
-    "ccna/Security/AAA.md",
-    "ccna/SNMP/SNMP.md",
-    "ccna/Wireless/Wireless.md",
-    "ccna/Hot Standby Router Protocol - Gateway/Network Gateway Redundancy.md",
-    "Red Hat System Adminstration/Red Hat System Admin.md",
     "日本語/Pasted image 20250223175529.png",
     "Red Hat System Adminstration",
     "日本語/日本語能力過去試験",
