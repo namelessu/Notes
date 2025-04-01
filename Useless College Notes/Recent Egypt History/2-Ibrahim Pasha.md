@@ -33,7 +33,7 @@
 
 ## **9-What accounting method did Ibrahim introduce in Egypt?**
 
-- He defined and mandated Al jibya method and double book keeping system.
+- The double book keeping system the debit and the credit.
 
 ## **10-In which wars did Ibrahim Pasha demonstrate his military genius?**
 

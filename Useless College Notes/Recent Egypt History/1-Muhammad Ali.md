@@ -11,7 +11,7 @@
 - He worked with his father in tobacco trade and then he done some military operations for the Ottoman empire. One of the most important operations was the battle of Abu-kir in 1799 where the Ottomans wanted to expel the french from Egypt but failed this operation. And the second one was 1801 when he joined captain Hussein army and succeeded to expel the french from Egypt which proved his bravery and his skillful military skills.
 ## **4-How long did he rule Egypt?**
 
-- Back in 1805 after Muhammad-Ali had several promotions the men of wisdom decided for him to become a ruler for Egypt at the ouster of Hurshid pasha and then he ruled Egypt till 1848. so, he ruled Egypt for about 46 year.
+- Back in 1805 after Muhammad-Ali had several promotions the men of wisdom decided for him to become a ruler for Egypt at the ouster of Hurshid pasha and then he ruled Egypt till 1848. so, he ruled Egypt for about 43 year.
 
 
 ## **5-How did he die?**
@@ -43,8 +43,7 @@
 
 ## **11-What were the agricultural and economic reforms in Mohamed Ali’s era?**
 
-- Muhammad Ali changed the language of Egypt from Turkish to Arabic and it became the main language. Egypt was the sole supplier of grain during the Napoleonic wars, And during this era plagues and famine caused poor financial state in Egypt.
-
+- Muhammad Ali changed the language of Egypt from Turkish to Arabic and it became the main language. Egypt was the sole supplier of grain during the Napoleonic wars.
 
 ## **12-Building canals caused more harm than benefits to Egypt. Explain**
 
@@ -52,7 +51,7 @@
 
 ## **13-What do you think of Mohamed Ali’s military strategy? Was it successful or not? And why**
 
-- It was a very bad strategy as he recruited Sudanese slaves and Turkish people into the army which may have caused Disloyalty in army. He also recruited half disabled people in the army which could've caused inconsistencies in war operations, and army went unpaid for sometimes which caused rebellions and desertions in army. Even though he had a bad strategy he was successful in war against Wahhabi's and defeated them.
+- It was a very bad strategy as he recruited Sudanese slaves and Turkish people into the army which may have caused Disloyalty in army. He also recruited half disabled people in the army which could've caused inconsistencies in war operations, and army went unpaid for sometimes which caused rebellions and desertions in army. Even though he had a bad strategy he was successful in war against Wahhabi's and some other operations.
 ## **14-Was he a fair person? Support your opinion with evidences from the video.**
 
 - No, He wasn't a fair for example the massacre of Mamluks wasn't fair and brutal as he was determined to do anything even if it is ruthless to achieve his goals, also the underpayment of army soldiers wasn't fair even after all this successful military operations.
