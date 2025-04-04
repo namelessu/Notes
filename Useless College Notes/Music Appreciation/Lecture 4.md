@@ -45,7 +45,7 @@
 21. **What are some challenges of acoustic design in open office spaces?**
 	- They suffer from large noise echo due to large open space and hard surface.
 
-22. What role do sound partitions play in open office acoustics?
+22. **What role do sound partitions play in open office acoustics?**
 	- They help reducing noise levels making the sound of conversations less distracted and enhancing overall comfort.
-23. Do you think acoustic treatments should be a priority in modern offices? Why  or why not?
+23. **Do you think acoustic treatments should be a priority in modern offices? Why  or why not?**
 	- Yes, it shall take more priority as in the modern office the conversations are very common, The work environment became very distracted and the employees become very uncomfortable with the environment. So, It is very important to take care of acoustic design treatments so we add sound partition walls and have sound absorbing panels in the ceilings to reduce the noise of this conversations and ensure better work environment in the office.
