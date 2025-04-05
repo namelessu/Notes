@@ -1,13 +1,15 @@
 {
   "accentColor": "#6348a3",
-  "baseFontSize": 22,
-  "cssTheme": "Obsidian gruvbox",
+  "baseFontSize": 16,
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "textFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
   "interfaceFontFamily": "Noto Sans,UD Digi Kyokasho N-R",
   "enabledCssSnippets": [
     "dashboard",
-    "dashboard-ReadLineLength"
+    "dashboard-ReadLineLength",
+    "Coloured Headings",
+    "Unique Bullet Points"
   ],
   "baseFontSizeAction": true
 }

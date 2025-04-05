@@ -4,7 +4,7 @@
 ## Historical overview of human rights
 [Refrence](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 - Magna Carta (1215) UK: Early recognition of rights.
-- Universal Declaration of Human Rights (UDHR) (1948): Foundation of modern human rights.b
+- Universal Declaration of Human Rights (UDHR) (1948): Foundation of modern human rights.
 #### 1. **Magna Carta**:-
  - Was issued in june 1215 and was the first document to put into writing the principle that the king and his government was not above the law
 #### 2. **UDHR(Universal Declaration of Human Rights)**
@@ -14,6 +14,6 @@
 
 ---
 ## Key Factors of Human Rights
-1. ==**Universality**==: It means that it is widely available and applicable for all people
-2. ==**Interdependence**==: It means that all human rights are connected together and must be applied to each person.
-3. ==**Indivisibility**==: All human rights are equally important.
+1. **Universality**: It means that it is widely available and applicable for all people regardless of their nationality, gender or their social status.
+2. **Interdependence**: It means that all human rights are connected together and must be applied to each person.
+3. **Indivisibility**: All human rights are equally important.
