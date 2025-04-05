@@ -22,14 +22,13 @@
 11. **Why did he name his wife “Farida”?**
 	- Because he believed that the F names was very lucky even though by the time it was all wrong.
 12. **When did he get married for the first time?**
-	- In January 1938 he had his first marriage to queen saniaz zulfikar who
+	- In January 1938 he had his first marriage to queen safinaz zulfikar who
 13. **Was Farouk cultured? Explain**
 	- No he wasn't as he never read a book never read a paper his idea of culture only came from movies.
 14. **Was his life with queen Farida happy? Explain.**
 	- No, He wasn't as his wife queen farida soon after their marriage he had his first daughter at age 18 which he wasn't happy about as he wanted a boy again another girl came as back then in Egypt they had an ignorant belief that when someone doesn't get a boy there is something wrong with his masculinity. He used to get obsessed with this fact. So, he always been angry at his wife and their life wasn't any good. Around the events of world war II his wife had an affair with a painter and was pregnant at this time which was very suspicious around this time and caused too much conflict in their family. after three whole years from birth of this child which was the third child of queen Farida they finally divorced in November 1948.
 15. **Farouk was known for his bad and irrational decisions. Explain giving evidences**
-	- During the world war II his British rival the high Briitsh commissioner Lampson gave the choice to king farouk to either abdicate or let the country be ruled by a political group al wafd. His decision at first was to kill Lampson which could've caused more problems. But as his tutor kept telling him to abdicate and keep his power he really did which was very bad decision as all regretted it in this time.
-
+	- During World War II he did many wrong decisions and thought about bad ones too. He refused to cut his connection with German and  Italy and kept communication with them privately. When the British commissioner Lampoon gave him the ultimatum to either accept the Wafd political movement to take control of Egypt or abdicate to Britain. He refused to accept any of this options and was planning to kill Lampson which would've caused too much trouble his tutor influenced his decision to abdicate but was a very bad decision and no one didn't regret it. After his wife got pregnant with his second daughter he used to believe that it had something wrong with masculinity and kept eating certain food till he grew sick and due to his conflict with wife Queen Farida she had an affair with a painter and got pregnant with third child which was suspicious pregnancy and raised more conflict and they divorced in 1948 after three years from the birth of this child. many other bad decisions were seen in king farouk as he requested his valet to troll the city to look for beautiful women and ordered that she shall have one child and must be 16 years old until he found queen Nariman and decided to marry her even though she was already engaged.
 
 16. **Why Farouk was named as the king of night?**
 	- He used to collect beautiful women and he used to go most of his nights in Cairo night clubs while the country been going in ruins.

@@ -1,6 +1,6 @@
 # **<span style="color: Red">3. Ismail Pasha </span>**
 ## **1. When and where was Ismail Pasha born?**
-- He was born in 31st of December 1830 A.D.
+- He was born in 31st of December 1830 A.D. He was born in Cairo.
 ## **2. What relationship did he have with Mohamed Ali and Ibrahim Pasha?**
 - He was the son of Ibrahim pasha and the grandson of Muhammed Ali pasha 
 ## **3. Where did he receive education?**
@@ -8,7 +8,7 @@
 ## **4. How did his European education influence his vision for Egypt?**
 - It made him think more about the European ideas in modernization.
 ## **5. What role did his marriages play in his political alliances?**
-- He was married multiple times and reflected his opulence his wives and children played significant roles in maintaining his prestige.
+- He was married about 14 times and reflected his opulence his wives and children played significant roles in maintaining his prestige.
 
 ## **6. When was he become the Khedive of Egypt?**
 - He became the Khedive of Egypt at 19th January 1863.
@@ -36,7 +36,7 @@
  
 ## 16. **Why was Ismail Pasha forced to abdicate? To whom?**
 - The financial pressure from Europe resulted to his abdication under the order of ottoman sultan.
-- He abdicated to Tawfik pasha
+- He abdicated to Tawfik pasha in 1879.
 ## 17. **When did he pass away?**
 - He died in March 1895.
 ## 18. **Do you think his legacy is more defined by his modernization efforts or financial crisis? Give reasons.**
