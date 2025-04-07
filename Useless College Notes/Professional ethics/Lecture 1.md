@@ -14,4 +14,4 @@
 3. To face moral issues
 ## Moral Dilemma
 - Situations at which two or more obligations come into conflict
-- In this cases we have to know and study the situation well and rank moral considerations to solve this matters
+- In this cases we have to know and study the situation well and rank moral considerations to solve this matters.
