@@ -30,16 +30,6 @@
               "icon": "lucide-file",
               "title": "日本語能力試験の文法　N5,N4"
             }
-          },
-          {
-            "id": "2848de1903cf2f41",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
@@ -212,12 +202,12 @@
   },
   "active": "aad05908242930ab",
   "lastOpenFiles": [
+    "日本語/日本語能力試験の文法　N5,N4.md",
     "CCNA/Subnetting/Subnetting.md",
     "CCNA/Subnetting/Screenshot from 2022-02-03 09-44-25.png",
     "CCNA/Design/Spine-Leaf Network Design.md",
     "Useless College Notes/Professional ethics/Lecture 3.md",
     "Useless College Notes/Professional ethics/Lecture 2.md",
-    "日本語/日本語能力試験の文法　N5,N4.md",
     "order.md",
     "Untitled.md",
     "Useless College Notes/Professional ethics/Questions.md",
