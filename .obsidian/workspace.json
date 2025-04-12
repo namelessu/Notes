@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "日本語能力試験の文法　N5,N4"
             }
+          },
+          {
+            "id": "2848de1903cf2f41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -202,13 +212,18 @@
   },
   "active": "aad05908242930ab",
   "lastOpenFiles": [
+    "CCNA/Subnetting/Subnetting.md",
+    "CCNA/Subnetting/Screenshot from 2022-02-03 09-44-25.png",
+    "CCNA/Design/Spine-Leaf Network Design.md",
+    "Useless College Notes/Professional ethics/Lecture 3.md",
+    "Useless College Notes/Professional ethics/Lecture 2.md",
+    "日本語/日本語能力試験の文法　N5,N4.md",
+    "order.md",
+    "Untitled.md",
     "Useless College Notes/Professional ethics/Questions.md",
     "Useless College Notes/Professional ethics/Lecture 4.md",
     "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
-    "Useless College Notes/Professional ethics/Lecture 3.md",
-    "Useless College Notes/Professional ethics/Lecture 2.md",
     "Useless College Notes/Professional ethics/Lecture 1.md",
-    "日本語/日本語能力試験の文法　N5,N4.md",
     "Useless College Notes/Recent Egypt History/Important Dates.canvas",
     "Useless College Notes/Recent Egypt History/4-King Farouk.md",
     "Useless College Notes/Recent Egypt History/3-Ismail Pasha.md",
@@ -230,10 +245,6 @@
     "Useless College Notes/Untitled.md",
     "Useless College Notes/Human Rights/Untitled.canvas",
     "Useless College Notes/Human Rights",
-    "ccna/Automation/SDN.md",
-    "Excalidraw/Drawing 2025-03-20 18.39.53.excalidraw.md",
-    "ccna/Security/ACLs For Packet Filtering.md",
-    "202503200403.md",
     "日本語/Pasted image 20250223175529.png",
     "Red Hat System Adminstration",
     "日本語/日本語能力過去試験",
@@ -250,7 +261,6 @@
     "ccna/Subnetting/Untitled 3.png",
     "ccna/Subnetting/Untitled 2.png",
     "ccna/Subnetting/Untitled 1.png",
-    "ccna/Subnetting/Screenshot from 2022-02-03 09-44-25.png",
     "Untitled.canvas"
   ]
 }
