@@ -194,10 +194,13 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "aad05908242930ab",
+  "active": "67a9738ddcabee4a",
   "lastOpenFiles": [
     "日本語/日本語能力試験の文法　N5,N4.md",
     "CCNA/Subnetting/Subnetting.md",
