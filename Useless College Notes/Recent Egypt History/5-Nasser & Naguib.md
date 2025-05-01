@@ -13,11 +13,17 @@
 7. If you were Nasser, would you nationalize the farming lands and distribute it between farmers? Why?
 	- Yes, I would do such reforms as it will reduce the domination of land owners and help those farmers who work hard to live better than their own poverty state.
 8. How did Nasser secure funding for the Aswan Dam after the U.S. refused to lend him money? What was the impact on the Arab Republic?
-	- As he always wanted to irrigate the Nile flood he always dreamt of Huge dam in suez canal he didn't have enough money to make such a thing possible so he went to U.S but they refused after several talks and humilation. then he kept thinking about where he could be able to achieve such a fund like he went with "I do it my self" approach then he went for suez canal and signed a law to nationalize it.
+	- As he always wanted to irrigate the Nile flood he always dreamed of Huge dam in Suez canal he didn't have enough money to make such a thing possible so he went to U.S but they refused after several talks and humiliation. then he kept thinking about where he could be able to achieve such a fund like he went with "I do it my self" approach then he went for Suez canal and signed a law to nationalize it.
 9. How did the British and French react to the nationalization of the Suez Canal?
 	- They didn't accept such a thing as this affected their own benefits and power in the middle east they started allying with each other by having a secret company with Israel. In 1956 the Israeli troops started going through Sinai with secret help of french aviation the Egyptian military resistance started going against it. By this time London and Paris gave the ultimatum to Nasser and Israel to withdraw from Sinai but Nasser refused this was all planned so they send their troops and try achieve their power in Egypt. After the failure of Egyptian military resistance Abdul Nasser went more into religious approach and institutions such as Al-Azhar the resistance also failed in such an event. After a while America and Soviet-union gave order for all this armies to withdraw their troops immediately and to show them all that they are the greatest power in Middle-east that no one shall defy.
 
 10. How did the Gaza raids affect Egypt?
 	- 
 11. How did America try to take advantage of Nasser’s need to build up his army, and did it work
-	- 
+	- At first they agreed to fund the High Dam in Aswan. But later refused to provide it even after Nasser went to them and begged them to provide him with it. But it didn't work he went more into Do it yourself approach as he nationalized Suez canal which affected america and some other countries financial and power states in middle east.
+12. Why did Nasser choose Al-Azhar to call Egyptians to war in 1956? What does this show about him?
+	- He wanted to tap into people emotional and religious influence of Islam as we know Al-Azhar is known for being a very important Islamic symbol. It shows how great he is at being a political strategist as he know what can motivate his people to achieve his own goals.
+13. How did America and the Soviets force Israel to end the 1956 war?
+	- The both sent ultimatum for the three enemy forces to withdraw their troops and stop their doings. Soviet union threatened to attack London and Paris with missiles which wasn't taken seriously but they understood that they may send their troops to middle east which was something america wanted to prevent and didn't want to happen. America wanted to show others that they are the greatest power in middle east.
+14. What was Israel compensated for its withdrawal from Sinai?
+	- They were granted the authority  to take the straits of theran in egyptian waters and it is only access to red sea
