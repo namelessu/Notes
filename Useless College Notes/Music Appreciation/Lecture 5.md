@@ -8,7 +8,7 @@
 	- standard doors can allow sound to leak so using solid core doors, acoustic seals or even a second door layer can be effective.
 5. **How can double-glazed windows improve room acoustics?**
 	- Different thickness of glass can break sound waves at various frequencies, It reduces the noise sound transmission which comes from outside traffic. 
-6. Do you think acoustic doors and windows are worth investing in for a small home studio?
+6. **Do you think acoustic doors and windows are worth investing in for a small home studio?**
 	- Yes i think so. It helps the home studio to be prevented from outside traffic noise and also prevents the sound performance leakage from recording.
 7. **What are some affordable acoustic solutions mentioned in the video?**
 	- simple foam panels and bass traps,rugs carpets and curtains and also DIY solutions like making sound panels with fabric and insulation.
