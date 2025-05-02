@@ -1,7 +1,7 @@
  1. **What’s the time period of the Medieval music?**
 	 - 500-1500 A.D.
  2. What is Gregorian chant?
-	 - It was developed in 9th & 10th centuries it was what is known as plain chant it was named after St Gregory the great it was seen unaccomponied monophonic with single melody of lines. 
+	 - It was developed in 9th & 10th centuries it was what is known as plain chant it was named after St Gregory the great it was seen unaccompanied monophonic with single melody of lines. 
  3. Why was most of the music anonymous, in the Medieval ?
 	 - The church had monopoly on creation of music and pieces were passed down through  word from mouth. Music was considered an act of devotion to the church and from this we don't know many of composes from this period.
  4. Why Hildegard was the most famous music in the Medieval?
