@@ -59,10 +59,10 @@
 	D) Frequent stops and starts
 
 16. **What role does DSP play in creating audio effects?**
-	- It can filter, enhance and analyze sounds for a range of applications. It is essential in cancelling unwanted noise frequencies. and it can lead to replicate acoustics of different enviroments by adding reverb and echo effects to recording.
+	- It can filter, enhance and analyze sounds for a range of applications. It is essential in cancelling unwanted noise frequencies. and it can lead to replicate acoustics of different environments by adding reverb and echo effects to recording.
 
 17. **In your opinion, has DSP changed music production for better or worse? Why?****
-	- Yes, It change the music production for better it helped the musicians to provide a better sound as such technology filters, enhances and analyze sound. It also helped them. So, they can use audio effects to replicate the same acoustics from different environment such as concert halls and small home studijjo by adding reverb and echo.
+	- Yes, It change the music production for better it helped the musicians to provide a better sound as such technology filters, enhances and analyze sound. It also helped them. So, they can use audio effects to replicate the same acoustics from different environment such as concert halls and small home studio by adding reverb and echo.
 
 18. **Which of these is NOT a common use of DSP in audio technology?**
 	A) Noise cancellation
