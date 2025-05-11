@@ -1,7 +1,7 @@
 ## Probability Theory
 **Definition of probability theory**
 Probability theory is a method that helps us to analyze the chance of events in a logical soundly matter.
-$$\leq P(Event) \leq 1$$
+$$0 \leq P(Event) \leq 1$$
 ## Important Probability theory formulas
 - ${} P(A^c)=1-p(A) {}$
 
