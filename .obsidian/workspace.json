@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/日本語能力試験の文法　N5,N4.md",
+                "file": "Useless College Notes/Principles of coding theory/Lecture 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "日本語能力試験の文法　N5,N4"
-            }
-          },
-          {
-            "id": "502d01b5ccadcc40",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -210,18 +200,27 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f21b7ff1d8c0456b",
+  "active": "67a9738ddcabee4a",
   "lastOpenFiles": [
-    "日本語/日本語能力試験の文法　N5,N4.md",
-    "Useless College Notes/Human Rights/Lecture 3.md",
+    "Useless College Notes/Principles of coding theory/Information System.md",
+    "Useless College Notes/Principles of coding theory/Lecture 1.md",
+    "Useless College Notes/Professional ethics/Questions.md",
+    "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
+    "CCNA/WAN/WAN.md",
     "CCNA/Subnetting/Subnetting.md",
+    "CCNA/Subnetting/Untitled 1.png",
+    "Useless College Notes/Professional ethics/Lecture 4.md",
+    "Useless College Notes/Professional ethics/Lecture 3.md",
+    "日本語/日本語能力試験の文法　N5,N4.md",
+    "Useless College Notes/Professional ethics/Lecture 1.md",
+    "Useless College Notes/Principles of coding theory",
+    "Useless College Notes/Human Rights/Lecture 3.md",
     "CCNA/Subnetting/Screenshot from 2022-02-03 09-44-25.png",
     "CCNA/IPv6/IPv6.md",
     "Useless College Notes/Music Appreciation/Lecture 5.md",
     "Useless College Notes/Music Appreciation/Lecture 6.md",
     "Useless College Notes/Music Appreciation/Lecture 7.md",
     "Useless College Notes/Music Appreciation/Lecture 4.md",
-    "Useless College Notes/Professional ethics/Lecture 4.md",
     "Useless College Notes/Recent Egypt History/5-Nasser & Naguib.md",
     "Useless College Notes/Recent Egypt History/6-British invasion.md",
     "Useless College Notes/Recent Egypt History/2-Ibrahim Pasha.md",
@@ -231,17 +230,10 @@
     "Useless College Notes/Music Appreciation/Lecture 3.md",
     "Excalidraw/Drawing 2025-05-02 23.55.02.excalidraw.md",
     "Excalidraw",
-    "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
     "Useless College Notes/Recent Egypt History/4-King Farouk.md",
     "Useless College Notes/Recent Egypt History/Important Dates.canvas",
-    "Useless College Notes/Professional ethics/Lecture 3.md",
     "README.md",
     "CCNA/Design/Spine-Leaf Network Design.md",
-    "Useless College Notes/Professional ethics/Lecture 2.md",
-    "order.md",
-    "Untitled.md",
-    "Useless College Notes/Professional ethics/Questions.md",
-    "Useless College Notes/Professional ethics/Lecture 1.md",
     "Useless College Notes/Professional ethics",
     "Useless College Notes/Human Rights/Untitled.canvas",
     "Useless College Notes/Human Rights",
@@ -255,12 +247,10 @@
     "ccna/WAN/vpn.png",
     "ccna/Wireless",
     "ccna/WAN",
-    "ccna/VLAN",
     "ccna/Subnetting/Untitled.png",
     "ccna/Subnetting/Untitled 4.png",
     "ccna/Subnetting/Untitled 3.png",
     "ccna/Subnetting/Untitled 2.png",
-    "ccna/Subnetting/Untitled 1.png",
     "Untitled.canvas"
   ]
 }

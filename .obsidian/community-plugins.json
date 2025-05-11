@@ -12,5 +12,7 @@
   "obsidian-imgur-plugin",
   "share-note",
   "media-extended",
-  "contribution-graph"
+  "contribution-graph",
+  "better-mathjax",
+  "obsidian-latex-suite"
 ]
