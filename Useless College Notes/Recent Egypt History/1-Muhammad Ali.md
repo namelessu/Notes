@@ -54,4 +54,4 @@
 - It was a very bad strategy as he recruited Sudanese slaves and Turkish people into the army which may have caused Disloyalty in army. He also recruited half disabled people in the army which could've caused inconsistencies in war operations, and army went unpaid for sometimes which caused rebellions and desertions in army. Even though he had a bad strategy he was successful in war against Wahhabi's and some other operations.
 
 ## **14-Was he a fair person? Support your opinion with evidences from the video.**
-- No, He wasn't a fair for example the massacre of Mamluks wasn't fair and brutal as he was determined to do anything even if it is ruthless to achieve his goals, He was a Napoleonic figure as he  prioritized the state of power over morality.
+- No, He wasn't a fair for example the massacre of Mamluks wasn't fair and brutal as he was determined to do anything even if it is ruthless to achieve his goals, His terrible strategy on He was a Napoleonic figure as he  prioritized the state of power over morality.
