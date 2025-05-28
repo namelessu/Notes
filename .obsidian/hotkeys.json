@@ -109,14 +109,6 @@
       "key": "Z"
     }
   ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "editor:toggle-numbered-list": [
     {
       "modifiers": [
@@ -195,6 +187,14 @@
         "Shift"
       ],
       "key": "H"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }

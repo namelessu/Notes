@@ -4,7 +4,6 @@
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "obsidian-discordrpc",
   "inline-math",
   "obsidian-admonition",
   "obsidian-style-settings",
@@ -13,5 +12,6 @@
   "media-extended",
   "contribution-graph",
   "better-mathjax",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-discordrpc"
 ]

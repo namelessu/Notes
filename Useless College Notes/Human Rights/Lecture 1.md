@@ -6,7 +6,7 @@
 - Magna Carta (1215) UK: Early recognition of rights.
 - Universal Declaration of Human Rights (UDHR) (1948): Foundation of modern human rights.
 #### 1. **Magna Carta**:-
- - Was issued in june 1215 and was the first document to put into writing the principle that the king and his government was not above the law
+ - Was issued in june 1215 and was the first document to put into writing the principle that the king and his government was not above the law.
 #### 2. **UDHR(Universal Declaration of Human Rights)**
 - It done in 1948 and drafted by representatives with different legal and cultural backgrounds from all regions over the world.
 - It is the first set that made human rights universally and globally protected and has been translated for over 500 language.

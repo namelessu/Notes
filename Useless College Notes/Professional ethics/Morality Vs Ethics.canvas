@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"62a337911cf0a02d","x":0,"y":-90,"width":344,"height":50,"type":"text","text":"Any Aspect of human action"},
-		{"id":"8277a14eed67f2dd","x":-400,"y":-95,"width":250,"height":60,"type":"text","text":"Morality"},
-		{"id":"da29667b9fb056c7","x":0,"y":26,"width":365,"height":60,"type":"text","text":"Refer to professional Behaviour"},
-		{"id":"598bc1e77a65ba43","x":-400,"y":31,"width":250,"height":50,"type":"text","text":"Ethics"}
+		{"id":"62a337911cf0a02d","type":"text","text":"Any Aspect of human action.","x":0,"y":-140,"width":344,"height":100},
+		{"id":"da29667b9fb056c7","type":"text","text":"Refer to professional Behaviour","x":0,"y":0,"width":400,"height":100},
+		{"id":"598bc1e77a65ba43","type":"text","text":"Ethics","x":-400,"y":25,"width":250,"height":50},
+		{"id":"8277a14eed67f2dd","type":"text","text":"Morality","x":-400,"y":-120,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"93554667708779c1","fromNode":"8277a14eed67f2dd","fromSide":"right","toNode":"62a337911cf0a02d","toSide":"left"},
