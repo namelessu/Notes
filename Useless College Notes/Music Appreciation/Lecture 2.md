@@ -38,7 +38,7 @@
 - Orchestras alongside operas, sonatas and masses were invented in this era.
 ### **11-why was there a great use of instruments in this era?**
 - The voice music was overtaken by music outdoor ensembles which proved how great the instruments has evolved.
-### **12-Give examples of the new instruments invented in the Baqoque**
+### **12-Give examples of the new instruments invented in the Baroque**
 - Cello, Bassoon, oboe and harpsichord
 
 ### **13-What the general  definition of classical music?**
@@ -55,5 +55,5 @@
 ### **18-What is notable about the Modern era in music?**
 - The music started to stay off the guidelines and instructions that had been in the older eras so, free design of music became more available. The music became available for everyone in streamlines, videos, tapes, etc
 ### **19-What role did technology play in the evolution of music?**
-- It played a huge role as it made the music available for people around people and can listen to it at ease with a lot of methods like cassette tapes, DVDs,etc.
+- It played a huge role as it made the music available for people around world and can listen to it at ease with a lot of methods like cassette tapes, DVDs,etc.
 
