@@ -84,9 +84,10 @@
 
 22. **AI plays significant role in music production. Explain.**
 	- Ai helped by transforming music production enabling rapid prototyping and experimental sounds.
-### Short Answer notes (Pending)
+### Short Answer notes  
 
 1. **Why is the deep understanding of music crucial for acoustic engineers?**
+	- An acoustic engineer with good understanding for music should be able to differentiate between different music area environments and evaluate how music can be experienced to prove the most optimum acoustic treatments.
 
 2. **In what ways do music and engineering complement each other in the design and development of musical buildings, bridges and skyscrapers?**
 

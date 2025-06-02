@@ -15,11 +15,11 @@
 4. **What role do acoustic engineers play in building design?**
 	- The acoustic engineers use their knowledge to make the speech sound less distorted and in better quality they use the best material and space design to ensure that the music is delivered in high quality.
 5. **Which field utilizes sound for testing the integrity of materials?**
-	A) Thermodynamics 
-	B) Acoustics 
-	C) Fluid Mechanics 
-	D) Electromagnetism
-Answer: B) Acoustics
+	- A) Thermodynamics 
+	- B) Acoustics 
+	- C) Fluid Mechanics 
+	- D) Electromagnetism
+	Answer: B) Acoustics
 
 6. **What are some techniques used in noise control engineering to reduce environmental noise?**
 	- Using good noise insulation materials like soundproof drywall,acoustic panels and specialized insulation materials to minimize unwanted sound noise, And through Dynamic analysis.

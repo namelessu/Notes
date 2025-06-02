@@ -11,6 +11,9 @@
 	- Sound proofing to block the high sound from leaving the studio which may disturb other people living or the opposite as the high noise sound the can come from outside environment which may be transportation noise or weather related noise which may affect the home studio performance quality and clarity.
 5. **What are the three main types of acoustic treatments? What’s the use of each one of them?**
 	- bass traps,absorption panels and diffusers.
+		- **Bass traps:** Usually are set in the corners of the room and they absorb low frequencies.
+		- **Absorption panels:** Usually placed on walls and doors and they absorb mid to high frequencies.
+		- **Diffusers:** Usually are used as a tool to scatter the sound around the room area to provide more natural and clear sound.
 6. **Where are bass traps usually placed, and why?**
 	- The bass traps usually put in the corners of the room because they absorb low frequencies.
 7. **Where are absorption panels usually placed, and why?**
@@ -20,7 +23,7 @@
 9. **Why are rectangular rooms typically better for acoustics than square rooms?**
 	- Because in square rooms the standing waves points to the sound waves which can lead to them cancelling each other and also because it is better to avoid having parallel surfaces in critical sound environments as they have more echoes and reflections.
 10. **Are high ceilings more effective in large or small rooms? How?**
-	- In large rooms because they provide more even distribution.
+	- In large rooms because they provide more even sound distribution.
 11. **Which acoustic material is best for absorbing mid-to-high frequencies?**
 	- Acoustic Foam.
 12. **What’s the ideal acoustic material for theaters or any large places? and Why?**
