@@ -196,5 +196,14 @@
       ],
       "key": "R"
     }
+  ],
+  "markdown:add-metadata-property": [],
+  "obsidian-furigana:add-ruby": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }
