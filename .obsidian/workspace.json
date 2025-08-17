@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f21b7ff1d8c0456b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語/日本語能力試験の文法　N5,N4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "日本語能力試験の文法　N5,N4"
-            }
-          },
-          {
             "id": "cd697fe97cca051d",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "日本語能力試験の文法　N5,N4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,6 +205,9 @@
     "日本語/日本語の動詞の活用の遊び場.md",
     "日本語/日本語の大切な表現.md",
     "日本語/日本語能力試験の文法　N5,N4.md",
+    "ノートス修理.md",
+    "日本語/敬語2.mp4",
+    "日本語/敬語1.mp4",
     "C programming",
     "日本語/日本の敬語.md",
     "日本語/みんなの日本語のノートス.md",
@@ -254,7 +232,6 @@
     "Useless College Notes/Professional ethics/Lecture 5.md",
     "Useless College Notes/Professional ethics/Lecture 4.md",
     "Useless College Notes/Recent Egypt History/6-British invasion.md",
-    "Useless College Notes/Professional ethics/Lecture 2.md",
     "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
     "CCNA/Subnetting/Untitled 1.png",
     "Useless College Notes/Principles of coding theory",
@@ -266,8 +243,6 @@
     "日本語/Pasted image 20250223175529.png",
     "Red Hat System Adminstration",
     "日本語/日本語能力過去試験",
-    "Useless College Notes/Music Appreciation",
-    "Useless College Notes",
     "ccna/Design/Untitled(1).png",
     "ccna/WAN/vpn-crypto.png",
     "ccna/WAN/vpn.png",
