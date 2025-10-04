@@ -56,6 +56,8 @@
 	1. Unary
 	2. Binary
 	3. Ternary
+![[Drawing 2025-08-28 20.17.10.excalidraw|720px]]
+
 2. Cardinality
 	- One To One: For example each student has one and single ID
 	- One To Many: For example Each department has many employees
