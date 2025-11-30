@@ -1,0 +1,4 @@
+![[presentation-layer.png]]
+The Presentation Layer, also known as the syntax layer, is responsible for translating data between the application layer and the network format. It ensures that data sent from the application layer of one system is readable by the application layer of another system. This layer handles data formatting, [encryption](https://www.imperva.com/learn/data-security/data-encryption/), and compression, facilitating interoperability between different systems.
+We have many data types that should be encrypted and formatted so the network can be able to understand it and so the lower level of the OSI mode protocol layers.
+Example: GIF,JPG,PNG,MKV,MP4,MP3,txt.

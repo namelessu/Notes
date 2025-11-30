@@ -1,0 +1,3 @@
+- it is responsible for decoding and encoding of data when we write on our PC keyboard every letter has its own ASCII code which is converted into machine language.
+- It consists of two layers (Logical link control layer),(Physical address control{MAC Address}.
+- LLC sublayer is responsible to check which type of address is supposed to be used it is also responsible for frame encapsulation.

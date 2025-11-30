@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd95887687c83718",
+            "id": "70daf0a7b11fe308",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "日本語文法解説書"
             }
-          },
-          {
-            "id": "13fe4bb7541b3253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日本語/日本語の大切な表現.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "日本語の大切な表現"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,56 +201,57 @@
       "media-extended:Open media": false
     }
   },
-  "active": "13fe4bb7541b3253",
+  "active": "70daf0a7b11fe308",
   "lastOpenFiles": [
-    "日本語/日本語文法解説書.md",
+    "日本語/日本語平叙文.md",
     "日本語/日本語色々な動詞の活用一覧.md",
+    "日本語/日本語能力試験N3文法纏め.md",
+    "日本語/日本語文法解説書.md",
+    "日本五平叙文.md",
+    "日本語/助詞解説.md",
     "日本語/日本語の大切な表現.md",
     "日本語/敬語1.mp4",
-    "SQL/SQL.md",
+    "日本語/Pasted image 20250223175529.png",
+    "CCNA/OSI Model/Layer 1 Physical Layer.md",
+    "CCNA/OSI Model/OSI Model Pictures/functions_of_transport_layer_6.webp",
+    "CCNA/OSI Model/OSI Model Pictures/functions_of_transport_layer_5.webp",
+    "CCNA/Introduction/Introduction.md",
+    "CCNA/Introduction/Network Topologies Notes/ring-topology4.webp",
+    "CCNA/Introduction/Network Topologies Notes/The-star-network-topology.webp",
+    "CCNA/Introduction/Network Topologies Notes/Mesh Topology.webp",
+    "CCNA/Introduction/Network Topologies Notes",
+    "CCNA/Introduction/Network Topologies Notes/Bus Topology.webp",
+    "CCNA/OSI Model/OSI Model Pictures/presentation-layer.png",
+    "CCNA/OSI Model/Layer 5 Session Layer.md",
+    "CCNA/Pictures/ospf-wildcards-for-subnets.png",
+    "CCNA/OSI Model/OSI Model Pictures/NAT.webp",
+    "CCNA/OSI Model/Layer 3 Network Layer.md",
+    "CCNA/OSI Model/Layer 2 Data-link Layer.md",
+    "CCNA/OSI Model/Layer 4 Transport Layer.md",
+    "CCNA/OSI Model/Layer 7 Application Layer.md",
+    "CCNA/OSI Model/Layer 6 Presentation layer.md",
+    "CCNA/OSI Model/OSI Model Pictures",
+    "CCNA/OSI Model/Layer 1/Layer 5 Session layer.md",
+    "CCNA/SNMP/SNMP.md",
+    "CCNA/OSI Model/Layer 5 Transport Layer.md",
     "SQL/Drawing 2025-08-28 20.17.10.excalidraw.md",
+    "CCNA/ARP/ARP.md",
+    "SQL/SQL.md",
     "Drawing.md",
     "CCNA/Automation/Automation.md",
-    "CCNA/OSI Model/Layer 1/Physical Layer.md",
-    "CCNA/OSI Model/Layer 1/Layer 4-UDP-TCP.md",
-    "CCNA/OSI Model/Layer 1/Untitled.png",
-    "CCNA/Introduction/Introduction.md",
-    "CCNA/Introduction/Untitled-Diagram-336.webp",
     "CCNA/Introduction/Unconfirmed 381216.crdownload",
-    "CCNA/Introduction/ring-topology4.webp",
     "CCNA/Introduction/Unconfirmed 295369.crdownload",
-    "CCNA/Introduction/The-star-network-topology.webp",
     "CCNA/Introduction/Unconfirmed 62394.crdownload",
-    "CCNA/Introduction/16.webp",
     "CCNA/CCDP and LLDP/CCDP and LLDP.md",
     "CCNA/Introduction",
     "CCNA/Untitled.md",
-    "CCNA/ARP/ARP.md",
     "SQL",
     "README.md",
-    "ノートス修理.md",
     "日本語/敬語2.mp4",
     "C programming",
-    "日本語/日本の敬語.md",
-    "日本語/みんなの日本語のノートス.md",
-    "Useless College Notes/Recent Egypt History/5-Nasser & Naguib.md",
-    "Digital Communication Systems/Untitled.md",
-    "Digital Communication Systems",
     "Useless College Notes/Recent Egypt History/Important Dates.canvas",
-    "Useless College Notes/Music Appreciation/Lecture 7.md",
-    "Useless College Notes/Music Appreciation/Lecture 3.md",
-    "Useless College Notes/Music Appreciation/Lecture 2.md",
-    "Useless College Notes/Music Appreciation/Lecture 1.md",
-    "Useless College Notes/Music Appreciation/Lecture 6.md",
-    "Useless College Notes/Recent Egypt History/3-Ismail Pasha.md",
     "Useless College Notes/Professional ethics/Morality Vs Ethics.canvas",
-    "CCNA/Subnetting/Untitled 1.png",
-    "Useless College Notes/Principles of coding theory",
-    "CCNA/Subnetting/Screenshot from 2022-02-03 09-44-25.png",
     "Useless College Notes/Human Rights/Untitled.canvas",
-    "日本語/Pasted image 20250223175529.png",
-    "ccna/Design/Untitled(1).png",
-    "ccna/WAN/vpn-crypto.png",
     "Untitled.canvas"
   ]
 }
